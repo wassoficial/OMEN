@@ -1,8 +1,8 @@
 module.exports = {
-  keywords: ["Watford vs Arsenal","Roma vs Atalanta","Guinandra Jatikusumo","Cagliari vs Lazio","Aston Villa","Liga Indonesia","Naura","Juventus vs Spezia","Tokushima Vortis vs Verdy","Kris Wu","Lippo Mall Kemang","DJ Una","Leonardo DiCaprio","PSG vs Nice","Bus terbakar di Tol Pandaan","UFC 272","Liga 3","Uus","Fabio Quartararo"],
-  comments: ["hello","let's be a friend","subs to subs ahaha"],
-  usernamegoogle: "username",
-  passwordgoogle: "pass",
+  keywords: ["bad bunny","Ozuna","Sech","Cosculluela","Daddy Yankee","DJ Una"],
+  comments: ["Hola como estan? Vayan a mi canal me ayudarian escuchando mis canciones"],
+  usernamegoogle: "wassoficial",
+  passwordgoogle: "wass",
   delaycomment: 60, // delay ( per second )
   trending: false,
   copycomment:true, // false if you want use comment above , i mean from array
